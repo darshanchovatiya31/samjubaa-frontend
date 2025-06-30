@@ -1,0 +1,22 @@
+.contact_main {
+    padding-top: 84px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.contact_inner {
+  background-color: #e4e4e4;
+}
+.contact_number {
+  padding-left: 60px !important;
+}
+.fleg {
+  top: 65px;
+  left: 20px;
+}
+.contact_icon{
+    color: #ff4081;
+}
